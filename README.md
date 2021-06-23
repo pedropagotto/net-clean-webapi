@@ -1,18 +1,18 @@
 # net-clean-webapi
 Exemplo de configuração de projeto de  api com net utilizando os conceitos de:
 
-- [ ] Clean Architeture
-- [ ] Clean Code
-- [ ] SOLID
-- [ ] Unit Tests
-- [ ] Repository Pattern
-- [ ] Abstract Factory
-- [ ] Chain of Responsibility
-- [ ] Iterator
-- [ ] Proxy
-- [ ] Decorators
-- [ ] Inversion of Control
-- [ ] Dependency Injection
+- [x] Clean Architeture
+- [x] Clean Code
+- [x] SOLID
+- [x] Unit Tests
+- [x] Repository Pattern
+- [x] Abstract Factory
+- [x] Chain of Responsibility
+- [x] Iterator
+- [x] Proxy
+- [x] Decorators
+- [x] Inversion of Control
+- [x] Dependency Injection
 
 ### Inspirações:
 
